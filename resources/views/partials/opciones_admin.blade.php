@@ -1,0 +1,1 @@
+<h1>Opciones del administrador</h1>
